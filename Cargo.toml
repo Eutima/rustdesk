@@ -221,3 +221,8 @@ panic = 'abort'
 strip = true
 #opt-level = 'z' # only have smaller size after strip
 rpath = true
+
+[server]
+id = "support.eutima.ch:21115"
+relay = "support.eutima.ch:21116"
+key = "SWBx11sWnRP5ShSnLcIkgrH9tfH6Ty2QLpniiZMYw6Q="
